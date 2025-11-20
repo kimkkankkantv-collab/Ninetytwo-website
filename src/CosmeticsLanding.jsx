@@ -47,7 +47,7 @@ export default function CosmeticsLanding() {
           <div className="bg-white p-4 rounded-lg shadow">
             <h4 className="font-semibold">사업자 정보</h4>
             <ul className="text-sm text-gray-600 mt-2">
-              <li>상호: 나인티투 (NinetyTwo)</li>
+              <li>상호: 나인티투(NinetyTwo)</li>
               <li>대표: 김현수</li>
               <li>사업자등록번호: 305-41-27440</li>
               <li>연락처: 010-9667-5951</li>
